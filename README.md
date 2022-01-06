@@ -1,1 +1,1 @@
-# rock_scissor_paper
+# Aiffel 양재 2기 Exploration
